@@ -1,6 +1,5 @@
 # AI-ntuitionists_FinSage_BOB
 
-Overview
 We aim to build a comprehensive AI-driven platform that offers personalized marketing materials, financial reports, and educational content tailored to individual preferences and needs. The platform will focus on enhancing customer engagement and satisfaction through personalized communication, leveraging Microsoft Azure OpenAI.
 
 - Segmentation: Classify users into high-scale and low-scale investors based on their investment patterns.
